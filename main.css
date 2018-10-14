@@ -5,3 +5,7 @@ h1 {
 * {
   background-color:#bababa
 }
+table, th, td {
+    border-collapse: collapse;
+    border-spacing: 100px;
+}
