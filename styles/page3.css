@@ -1,4 +1,9 @@
 * {
   background-color:#169621
 }
-<
+* .universal3 {
+  color: #005104;
+}
+a:hover {
+    background-color: yellow;
+}

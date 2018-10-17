@@ -1,6 +1,5 @@
 h1 {
   font-size:40px;
-
 }
 body {
   background-color: #a3a3a3;
@@ -8,4 +7,19 @@ body {
 table, th, td {
     border-collapse: collapse;
     border-spacing: 200px;
+}
+span {
+  background-color:skyblue;
+}
+* .text {
+  color: #236d7f;
+}
+a:hover {
+    background-color: yellow;
+}
+img {
+  border: 10px solid #474747;
+  border-radius: 2px;
+  padding: 0px;
+  width: 700px;
 }
