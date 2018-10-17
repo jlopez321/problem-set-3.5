@@ -2,10 +2,10 @@ h1 {
   font-size:40px;
 
 }
-* {
-  background-color:#bababa
+body {
+  background-color: #a3a3a3;
 }
 table, th, td {
     border-collapse: collapse;
-    border-spacing: 100px;
+    border-spacing: 200px;
 }
