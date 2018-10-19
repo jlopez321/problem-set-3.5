@@ -7,3 +7,13 @@
 a:hover {
     background-color: yellow;
 }
+footer {
+color: darkblue;
+}
+.list2 {
+  color:#ff7f7f;
+}
+img {
+  height: 300px;
+  width: 600px;
+}
