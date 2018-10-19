@@ -17,3 +17,10 @@ img {
   height: 300px;
   width: 600px;
 }
+#portable {
+  border-radius: 25px;
+   border: 2px solid;
+   padding: 0px;
+   width: 350px;
+   height: 200px;
+}
