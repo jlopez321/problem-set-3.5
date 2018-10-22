@@ -24,3 +24,15 @@ img {
    width: 350px;
    height: 200px;
 }
+#nintendoid {
+  color:#ffaaaa;
+}
+button:hover {
+  color:darkred;
+}
+a[target] {
+    background-color: white;
+}
+hr div {
+    color:#ff7f7f;
+}
