@@ -17,3 +17,15 @@ img {
   height: 300px;
   width: 500px;
 }
+#xboxid {
+  color:#aaffb7;
+}
+button:hover {
+  color:darkgreen;
+}
+a[target] {
+    background-color: white;
+}
+hr div {
+    color:#64d65c;
+}
